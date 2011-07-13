@@ -1,0 +1,1 @@
+require 'cuke-irb/stopper'
